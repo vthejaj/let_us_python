@@ -1,4 +1,4 @@
-# add teh corresponding elements in 2 lists using lambda
+# add the corresponding elements in 2 lists using lambda
 
 lst1 = [1,2,3,4,5,6]
 lst2 = [6,5,4,3,2,1]
